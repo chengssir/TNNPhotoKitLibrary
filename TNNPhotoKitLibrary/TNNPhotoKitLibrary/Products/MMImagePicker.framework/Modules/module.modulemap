@@ -1,0 +1,6 @@
+framework module MMImagePicker {
+  umbrella header "MMImagePicker.h"
+
+  export *
+  module * { export * }
+}
